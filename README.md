@@ -89,8 +89,8 @@ This combination keeps UI reactive, data persistent, and logic scalable.
 
 ## Setup Instructions
    1. Clone the repo
-     git clone https://github.com/yourname/flutter_ai_browser
-     cd flutter_ai_browser
+     git clone https://github.com/ajju1587/smart-browser
+     cd smart-browser
    2. Install dependencies
      flutter pub get
    3. Android Run
